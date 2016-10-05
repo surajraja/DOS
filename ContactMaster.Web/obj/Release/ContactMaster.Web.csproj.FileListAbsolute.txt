@@ -1,0 +1,14 @@
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\bin\ContactMaster.Web.dll
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\bin\ContactMaster.Web.pdb
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\bin\USLI.WCF.Services.dll
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\bin\USLI.WCF.Services.pdb
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\obj\Release\ResolveAssemblyReference.cache
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\obj\Release\ContactMaster.Web.dll
+C:\ZLEE\Work\ContactMaster\ContactMaster.Web\obj\Release\ContactMaster.Web.pdb
+C:\ZLI\Work\ContactMaster.Web\bin\ContactMaster.Web.dll
+C:\ZLI\Work\ContactMaster.Web\bin\ContactMaster.Web.pdb
+C:\ZLI\Work\ContactMaster.Web\bin\USLI.WCF.Services.dll
+C:\ZLI\Work\ContactMaster.Web\bin\USLI.WCF.Services.pdb
+C:\ZLI\Work\ContactMaster.Web\obj\Release\ContactMaster.Web.csprojResolveAssemblyReference.cache
+C:\ZLI\Work\ContactMaster.Web\obj\Release\ContactMaster.Web.dll
+C:\ZLI\Work\ContactMaster.Web\obj\Release\ContactMaster.Web.pdb

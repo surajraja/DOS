@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2065901a-e617-4b01-90fa-c660dacda3c4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52141/Services/ENDataService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ENDataService.xsd" MetadataType="Schema" ID="f49ca8b6-a520-43da-94a7-627866d3057a" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ENDataService1.xsd" MetadataType="Schema" ID="ef941227-6203-4fd6-9453-6a331f247751" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ENDataService2.xsd" MetadataType="Schema" ID="9529bf52-9be8-4938-99f7-f19c4d32c93e" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd5" />
+    <MetadataFile FileName="ENDataService3.xsd" MetadataType="Schema" ID="3a0d4c43-7e49-41db-86bb-0b4f492c4076" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd4" />
+    <MetadataFile FileName="ENDataService4.xsd" MetadataType="Schema" ID="b88af0bd-b135-4413-9a99-f9165c55ae37" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ENDataService.disco" MetadataType="Disco" ID="a895131b-f0e2-408f-ad25-6f3e68a27010" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?disco" />
+    <MetadataFile FileName="ContactService.wsdl" MetadataType="Wsdl" ID="eac7badf-f3f5-470d-8715-1469756ed6b0" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?wsdl" />
+    <MetadataFile FileName="ENDataService5.xsd" MetadataType="Schema" ID="ff3683f2-d7e3-4721-aca0-14017e248b89" SourceId="1" SourceUrl="http://localhost:52141/Services/ENDataService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

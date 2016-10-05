@@ -1,0 +1,98 @@
+﻿<navigation:Page x:Class="ContactMaster.Home" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" 
+    mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="480"
+    Title="Home"
+    Style="{StaticResource PageStyle}">
+
+    <Grid x:Name="LayoutRoot">
+        <ScrollViewer x:Name="PageScrollViewer" Style="{StaticResource PageScrollViewerStyle}">
+            <StackPanel Orientation="Vertical" >
+                <Grid x:Name="gridHeader">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <StackPanel Style="{StaticResource ContentStackPanelStyle2}" Grid.Column="0" Grid.Row="0">
+                        <TextBlock Style="{StaticResource ContentHeaderStyle}" 
+                                       Text="Department"/>
+                        <ComboBox x:Name="cboDepts" Width="200" HorizontalAlignment="Left" Margin="0,5,0,5" DisplayMemberPath="TeamName" SelectedValuePath="TeamID" SelectionChanged="cboDepts_SelectionChanged" />
+                        <TextBlock x:Name="proscount" Text=""/>
+                        <StackPanel Style="{StaticResource LinksStackPanelStyle}" HorizontalAlignment="Left" Margin="0,20,0,0" x:Name="btRow">
+                            <Button x:Name="btAdd"  Margin="0,0,0,5" Height="20" Content="Add" Click="btAdd_Click"/>
+                            <Button x:Name="btDelete"  Margin="10,0,0,5" Height="20" Content="Delete" Click="btDelete_Click"/>
+                            <Button x:Name="btExcel"  Margin="10,0,0,5" Height="20" Content="Excel" Click="btExcel_Click"/>
+                            <Button x:Name="btPrint"  Margin="10,0,0,5" Height="20" Content="Print" Click="btPrint_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Style="{StaticResource ContentStackPanelStyle2}" Grid.Column="1" Grid.Row="0">
+                        <TextBlock Style="{StaticResource ContentHeaderStyle}" 
+                                       Text="Contact Type"/>
+                        <ComboBox x:Name="cboContactType" Width="280" HorizontalAlignment="Left" Margin="0,5,0,5" DisplayMemberPath="ContactTypeName" SelectedValuePath="ContactTypeID" SelectionChanged="cboContactType_SelectionChanged" />
+                    </StackPanel>
+                    <StackPanel Style="{StaticResource ContentStackPanelStyle2}" Grid.Column="2" Grid.Row="0">
+                        <TextBlock Style="{StaticResource ContentHeaderStyle}" 
+                                       Text="Default Contact"/>
+                        <StackPanel Style="{StaticResource LinksStackPanelStyle}" x:Name="DefaultContactBlock" >
+                            <TextBlock x:Name="txDefaultContact" Text="Test Name" Height="25" FontSize="13" FontStyle="Italic" Foreground="#8b0000" Margin="0,5,0,5"/>
+                            <Button x:Name="ChangeDefault" Content="Change" Margin="10,0,0,5" Height="20" Click="ChangeDefault_Click"/>
+                            <Button x:Name="DeleteDefault" Content="Delete" Margin="10,0,0,5" Height="20" Click="DeleteDefault_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <TextBlock x:Name="txError" Text="Test Notes" Height="25" FontSize="13" FontStyle="Italic" Foreground="#8b0000" Margin="40,0,0,5" Visibility="Collapsed" />
+                <sdk:TabControl TabStripPlacement="Top" 
+                            VerticalAlignment="Top" 
+                            HorizontalAlignment="Left" 
+                            x:Name="mainTab" 
+                            Margin="20,10,0,0"
+                            Width="760"
+                            FontSize="12" SelectionChanged="mainTab_SelectionChanged">
+                    <sdk:TabItem Width="150" Height="30" Header="Customer" Name="ItemTab">
+                        <sdk:DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Name="CustomerGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Width="640" Margin="0,20,0,20" MaxHeight="400">
+                            <sdk:DataGrid.Columns>
+                                <sdk:DataGridTextColumn Binding="{Binding Path=UserName}" Header="Contact Name" Width="200" />
+                                <sdk:DataGridTextColumn Binding="{Binding Path=Entity1Name}" Header="Customer Name" Width="*" />
+                            </sdk:DataGrid.Columns>
+                        </sdk:DataGrid>
+                    </sdk:TabItem>
+                    <sdk:TabItem Width="155" Height="30" Header="State">
+                        <sdk:DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Name="StateGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Width="640" Margin="0,20,0,20"  MaxHeight="400">
+                            <sdk:DataGrid.Columns>
+                                <sdk:DataGridTextColumn Binding="{Binding Path=UserName}" Header="Contact Name" Width="200" />
+                                <sdk:DataGridTextColumn Binding="{Binding Path=Entity1Name}" Header="State Name" Width="*" />
+                            </sdk:DataGrid.Columns>
+                        </sdk:DataGrid>
+                    </sdk:TabItem>
+                    <sdk:TabItem Width="155" Height="30" Header="Product">
+                        <sdk:DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Name="ProductGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Width="640" Margin="0,20,0,20" MaxHeight="400">
+                            <sdk:DataGrid.Columns>
+                                <sdk:DataGridTextColumn Binding="{Binding Path=UserName}" Header="Contact Name" Width="200" />
+                                <sdk:DataGridTextColumn Binding="{Binding Path=Entity1Name}" Header="Product Name" Width="*" />
+                            </sdk:DataGrid.Columns>
+                        </sdk:DataGrid>
+                    </sdk:TabItem>
+                    <sdk:TabItem Width="175" Height="30" Header="State And Product" x:Name="psTabItem">
+                        <StackPanel>
+                            <sdk:DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Name="PSGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Width="640" Margin="0,10,0,20" MaxHeight="400">
+                                <sdk:DataGrid.Columns>
+                                    <sdk:DataGridTextColumn Binding="{Binding Path=UserName}" Header="Contact Name" Width="200" />
+                                    <sdk:DataGridTextColumn Binding="{Binding Path=Entity1Name}" Header="Product Name" Width="150" />
+                                    <sdk:DataGridTextColumn Binding="{Binding Path=Entity2Name}" Header="State Name" Width="*" />
+                                </sdk:DataGrid.Columns>
+                            </sdk:DataGrid>
+                        </StackPanel>
+                    </sdk:TabItem>
+                </sdk:TabControl>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+
+</navigation:Page>

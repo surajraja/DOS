@@ -1,0 +1,18 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IContactService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="../Services/ENDataService.svc" binding="basicHttpBinding"
+                bindingConfiguration="BasicHttpBinding_IContactService" contract="EnterpriseService.IContactService"
+                name="BasicHttpBinding_IContactService" />
+        </client>
+    </system.serviceModel>
+    <httpRuntime executionTimeout="1600"/>
+</configuration>

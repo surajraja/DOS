@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2012-06-11T16:34:32.9008986-04:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>C:\ZLI\Work\Published\ContactMaster</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ContactMaster.Web.dll">
+      <publishTime>02/10/2016 10:32:30</publishTime>
+    </File>
+    <File Include="bin/ContactMaster.Web.pdb">
+      <publishTime>06/11/2012 16:31:47</publishTime>
+    </File>
+    <File Include="bin/USLI.WCF.Services.dll">
+      <publishTime>02/10/2016 10:31:19</publishTime>
+    </File>
+    <File Include="bin/USLI.WCF.Services.pdb">
+      <publishTime>06/11/2012 16:31:46</publishTime>
+    </File>
+    <File Include="ClientBin/ContactMaster.xap">
+      <publishTime>01/18/2016 14:43:16</publishTime>
+    </File>
+    <File Include="ContactMasterTestPage.aspx">
+      <publishTime>06/16/2011 11:26:30</publishTime>
+    </File>
+    <File Include="ContactMasterTestPage.html">
+      <publishTime>06/16/2011 11:26:29</publishTime>
+    </File>
+    <File Include="ContactTypes.xml">
+      <publishTime>06/16/2011 11:47:14</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/21/2011 14:47:18</publishTime>
+    </File>
+    <File Include="Departs.xml">
+      <publishTime>02/27/2015 11:44:54</publishTime>
+    </File>
+    <File Include="ProfessionalProds.xml">
+      <publishTime>02/13/2012 17:03:14</publishTime>
+    </File>
+    <File Include="Services/ENDataService.svc">
+      <publishTime>03/23/2012 15:56:14</publishTime>
+    </File>
+    <File Include="Silverlight.js">
+      <publishTime>06/16/2011 11:26:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/19/2016 16:12:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\bin\USLIWCFWebHost.dll
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\bin\USLIWCFWebHost.pdb
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\bin\USLI.WCF.Services.dll
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\bin\USLI.WCF.Services.pdb
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\obj\Debug\ResolveAssemblyReference.cache
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\obj\Debug\USLIWCFWebHost.dll
+C:\ZLEE\Work\USLI.WCF.Services\USLIWCFWebHost\obj\Debug\USLIWCFWebHost.pdb

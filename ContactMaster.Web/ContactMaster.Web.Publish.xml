@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\ZLEE\Work\Published\ContactMaster" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/11/2012 16:34:32" />
+    <file relUrl="Departs.xml" publishTime="12/09/2011 11:13:31" />
+    <file relUrl="Services/ENDataService.svc" publishTime="03/23/2012 15:56:14" />
+    <file relUrl="Silverlight.js" publishTime="06/16/2011 11:26:30" />
+    <file relUrl="bin/USLI.WCF.Services.pdb" publishTime="06/11/2012 16:31:46" />
+    <file relUrl="bin/ContactMaster.Web.pdb" publishTime="06/11/2012 16:31:47" />
+    <file relUrl="ProfessionalProds.xml" publishTime="02/13/2012 17:03:14" />
+    <file relUrl="ClientBin/ContactMaster.xap" publishTime="06/11/2012 16:31:56" />
+    <file relUrl="ContactMasterTestPage.html" publishTime="06/16/2011 11:26:29" />
+    <file relUrl="bin/ContactMaster.Web.dll" publishTime="06/11/2012 16:31:47" />
+    <file relUrl="ContactMasterTestPage.aspx" publishTime="06/16/2011 11:26:30" />
+    <file relUrl="ContactTypes.xml" publishTime="06/16/2011 11:47:14" />
+    <file relUrl="Default.aspx" publishTime="06/21/2011 14:47:18" />
+    <file relUrl="bin/USLI.WCF.Services.dll" publishTime="06/11/2012 16:31:46" />
+  </publishProfile>
+</publishData>

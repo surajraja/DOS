@@ -1,0 +1,11 @@
+﻿<xapCache source="C:\ZLI\Work\SilverLight\ContactMaster\Bin\Debug\ContactMaster.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="4/28/2016 4:55:30 PM">
+  <file source="C:\ZLI\Work\SilverLight\ContactMaster\obj\Debug\ContactMaster.dll" archivePath="ContactMaster.dll" lastWriteTime="4/28/2016 4:55:29 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\ZLI\Work\SilverLight\ContactMaster\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="4/28/2016 4:50:03 PM" />
+  <file source="C:\ZLI\Work\SilverLight\ContactMaster\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/28/2016 4:55:30 PM" />
+</xapCache>

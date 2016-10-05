@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <team id="0" name="Select a Department" />
+  <team id="2" name="COMMERCIAL EXCESS" />
+  <team id="50" name="CALIFORNIA REGION TEAM" />
+  <team id="122" name="DEVON PARK SPECIALTY INSURANCE" />
+  <team id="7" name="HOSPITALITY &amp; LIQUOR" />
+  <team id="21" name="NON-PROFIT" />
+  <team id="1" name="PERSONAL" />
+  <team id="4" name="PROFESSIONAL" />
+  <team id="105" name="PROFESSIONAL D&amp;O/EPL" />
+  <team id="106" name="PROFESSIONAL E&amp;O" />
+  <team id="55" name="MIDATLANTIC REGION TEAM" />
+  <team id="60" name="MIDSOUTH REGION TEAM" />
+  <team id="32" name="MIDWEST REGIONAL TEAM" />
+  <team id="56" name="MOUNTAIN/NORTHWEST TEAM" />
+  <team id="62" name="NEW ENGLAND REGIONAL TEAM" />
+  <team id="58" name="GREATER N.Y. REGIONAL TEAM" />
+  <team id="59" name="FL/GA REGIONAL TEAM" />
+  <team id="54" name="TEXAS/OK REGION" />
+</root>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <contacttype id="1" name="Renewal Underwriter" />
+  <contacttype id="2" name="New Business Underwriter" />
+  <contacttype id="3" name="Underwriting Assistant - new business only" />
+  <contacttype id="4" name="Underwriting Assistant - renewals only" />
+  <contacttype id="5" name="Underwriting Assistant - both new and renewal" />
+</root>
