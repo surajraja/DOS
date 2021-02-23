@@ -24,9 +24,8 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)\_PublishedWebsites\ContactMaster.Web\'
     ArtifactName: 'drop'
     publishLocation: 'Container'
