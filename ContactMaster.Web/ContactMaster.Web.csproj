@@ -89,8 +89,8 @@
     </Content>
     <Content Include="Services\ENDataService.svc" />
     <Content Include="Silverlight.js" />
+        <Content Include="CommonLibrary.config" />
     <Content Include="Web.config">
-    <Content Include="CommonLibrary.config">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Web.Debug.config">
