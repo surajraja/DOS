@@ -29,3 +29,4 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)\_PublishedWebsites\ContactMaster.Web\'
     ArtifactName: 'drop'
     publishLocation: 'Container'
+
