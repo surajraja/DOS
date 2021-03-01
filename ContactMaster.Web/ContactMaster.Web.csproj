@@ -95,7 +95,8 @@
     </Content>
     <Content Include="Services\ENDataService.svc" />
     <Content Include="Silverlight.js" />
-        <Content Include="CommonLibrary.config" />
+    <Content Include="CommonLibrary.config" />
+    <Content Include="ContactMaster.json" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
