@@ -87,8 +87,16 @@
     <Content Include="Departs.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Reports\0dd1472e-632a-4833-aa2a-b459218ebc9f.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reports\54d63705-268d-4a6d-882f-791c92796785.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Services\ENDataService.svc" />
     <Content Include="Silverlight.js" />
+    <Content Include="CommonLibrary.config" />
+    <Content Include="ContactMaster.json" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

@@ -1,0 +1,72 @@
+{
+  "LABENV": {
+    "CustomVariables": {
+    "ENTERPRISE": "SQLtest",
+    "COMMON": "SQLtest",
+	  "PROFESSIONAL": "SQLtest",
+	  "PERSONAL": "SQLtest",
+	  "REA": "SQLtest",
+	  "COMMONDEV": "SQLtest",
+    "REPORT": "SQLREPORTING",
+	  "ReportDir": "C:\\inetpub\\wwwroot\\ContactMaster\\Reports\\",
+	  "ReportURL": "http://tools.__labenv__.usli.com/ContactMaster/Reports/",
+	  "MailServer": "172.17.100.39"
+    }
+  },
+  "TSTLAB": {
+    "CustomVariables": {
+    "ENTERPRISE": "SQLtest",
+    "COMMON": "SQLtest",
+	  "PROFESSIONAL": "SQLtest",
+	  "PERSONAL": "SQLtest",
+	  "REA": "SQLtest",
+	  "COMMONDEV": "SQLtest",
+    "REPORT": "SQLREPORTING",
+	  "ReportDir": "C:\\inetpub\\wwwroot\\ContactMaster\\Reports\\",
+	  "ReportURL": "http://tools.test.usli.com/ContactMaster/Reports/",
+	  "MailServer": "172.17.100.39"
+    }
+  },
+  "STGLAB": {
+    "CustomVariables": {
+    "ENTERPRISE": "SQLSTAGE1",
+    "COMMON": "SQLSTAGE1",
+	  "PROFESSIONAL": "SQLSTAGE1",
+	  "PERSONAL": "SQLSTAGE1",
+	  "REA": "SQLSTAGE1",
+	  "COMMONDEV": "SQLSTAGE1",
+    "REPORT": "SQLREPORTING",
+	  "ReportDir": "C:\\inetpub\\wwwroot\\ContactMaster\\Reports\\",
+	  "ReportURL": "http://tools.stage.usli.com/ContactMaster/Reports/",
+	  "MailServer": "172.17.100.39"
+    }
+  },
+  "PRODUCTION": {
+    "CustomVariables": {
+    "ENTERPRISE": "SQL_1",
+    "COMMON": "SQL_1",
+	  "PROFESSIONAL": "SQL_1",
+	  "PERSONAL": "SQL_1",
+	  "REA": "SQL_1",
+	  "COMMONDEV": "SQL_1",
+    "REPORT": "SQLREPORTING",
+	  "ReportDir": "D:\\Inetpub\\IntranetExtend\\ContactMaster\\Reports\\",
+	  "ReportURL": "http://intranet.usli.com:2012/ContactMaster/Reports/",
+	  "MailServer": "172.17.100.39"
+    }
+  },
+  "PRDLAB": {
+    "CustomVariables": {
+    "ENTERPRISE": "SQL_1",
+    "COMMON": "SQL_1",
+	  "PROFESSIONAL": "SQL_1",
+	  "PERSONAL": "SQL_1",
+	  "REA": "SQL_1",
+	  "COMMONDEV": "SQL_1",
+    "REPORT": "SQLREPORTING",
+	  "ReportDir": "C:\\inetpub\\wwwroot\\ContactMaster\\Reports\\",
+	  "ReportURL": "http://tools.test.usli.com/ContactMaster/Reports/",
+	  "MailServer": "172.17.100.39"
+    }
+  }
+}
