@@ -3,14 +3,10 @@
 # Add steps that publish symbols, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
 
-trigger:
-- master
-
-pool:
-  vmImage: 'windows-latest'
+pool: Default
 
 variables:
-  solution: '**/*.sln'
+  solution: 'ContactMaster.Web/ContactMaster.Web.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -24,11 +20,13 @@ steps:
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
-    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)"'
+    msbuildArgs: '/p:OutDir=$(build.stagingDirectory) /p:UseWPP_CopyWebApplication=true /p:PipelineDependsOnBuild=false'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+- task: PublishBuildArtifacts@1
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)\_PublishedWebsites\ContactMaster.Web\'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+
