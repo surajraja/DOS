@@ -1,0 +1,446 @@
+<?xml version="1.0"?> 
+<?mso-application progid="Excel.Sheet"?> 
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" 
+ xmlns:o="urn:schemas-microsoft-com:office:office" 
+ xmlns:x="urn:schemas-microsoft-com:office:excel" 
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" 
+ xmlns:html="http://www.w3.org/TR/REC-html40"> 
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"> 
+ <Author></Author> 
+<LastAuthor></LastAuthor> 
+<Created>Monday, February 08, 2021</Created> 
+<Version>12.00</Version> 
+</DocumentProperties> 
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"> 
+<WindowHeight>12015</WindowHeight> 
+<WindowWidth>24855</WindowWidth> 
+<WindowTopX>240</WindowTopX> 
+<WindowTopY>150</WindowTopY> 
+<ProtectStructure>False</ProtectStructure> 
+<ProtectWindows>False</ProtectWindows> 
+</ExcelWorkbook> 
+<Styles> 
+<Style ss:ID="Default" ss:Name="Normal"> 
+<Alignment ss:Vertical="Bottom"/> 
+<Borders/> 
+<Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/> 
+<Interior/> 
+<NumberFormat/> 
+<Protection/> 
+</Style> 
+<Style ss:ID="s62"> 
+<Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" ss:Bold="1" /> 
+</Style></Styles> 
+<Worksheet ss:Name="Sheet1"> 
+<Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15"> 
+ <Column ss:AutoFitWidth="0" ss:Width="140"/> 
+<Column ss:AutoFitWidth="0" ss:Width="200"/> 
+<Row ss:AutoFitHeight="0"> 
+<Cell ss:StyleID="s62"><Data ss:Type="String">Contact Name</Data></Cell><Cell ss:StyleID="s62"><Data ss:Type="String">Customer Name</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bill Keast</Data></Cell><Cell><Data ss:Type="String">RPS SALISBURY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">CRC JENKINTOWN</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">HULL &amp; COMPANY, LLC (HORSHAM, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">HULL &amp; COMPANY, LLC (PITTSBURGH, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">AMWINS ACCESS (FORT WASHINGTON, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">SURPLUS &amp; EXCESS LINES, LTD. OF SMYRNA DE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">GATEWAY SPECIALTY INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ARETE STRATEGIES, LLC DBA PITON INSURANCE GROUP &amp; FINANCIAL SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (ARL PHILADELPHIA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">USG INSURANCE SERVICES, INC. (WARMINSTER)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ZINN INSURANCE, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">AIA AMERICAN INSURANCE ADMINISTRATORS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BMT INSURANCE ADVISORS, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">HOMESALE INSURANCE SERVICES LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BLACKMOOR GENERAL AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">CLARK BAFFONE &amp; MATTHEWS INSURANCE AGENCY LLC DBA CBM INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NEW JERSEY, LLC DBA KINCEL &amp; COMPANY INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">CAMPBELL AGENCIES INC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">KRAMER-WARNER ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">C.C. YOUNG &amp; HENKELMAN INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NEW JERSEY, LLC DBA FRANCIS HALL INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NJ, LLC DBA ROEHRS &amp; COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">TRIDENT INSURANCE AGENCY COMPANY, LP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">MONTGOMERY INSURANCE SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">AMWINS BROKERAGE OF PENNSYLVANIA</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ELITE P&amp;C, LLC. DBA VILLANOVA INSURANCE PARTNERS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">JOHN P. MEEHAN AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">UNIVEST INSURANCE, INC. (COOPERSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; WILCOX OF PHILADELPHIA</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">THE GLATFELTER AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">SCB INSURANCE, LLC DBA CAPARO INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">PETERSON INSURANCE SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (PHILADELPHIA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ENGLE-HAMBRIGHT &amp; DAVIES, INC. (LANCASTER)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">UNIVEST INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">B&amp;H INSURANCE, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">NEW CASTLE INSURANCE, LTD.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ENDERS INSURANCE ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">KHB INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">FRANKLIN INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN OF PA, LP.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">REINHARDT`S AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">CHARLIE KIM FINANCIAL, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">HARTZELL INSURANCE ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">THE REINARD AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BMT INSURANCE ADVISORS, INC. (PHILADELPHIA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">A-BEST INSURANCE AND FINANCIAL SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">NORTHEAST INSURANCE AND FINANCIAL CONSULTANTS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">INSURANCE ASSOCIATES, INC. (NEWARK, DE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (PITTSTON, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">JOYCE, JACKMAN &amp; BELL, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NORTHEASTERN PENNSYLVANIA</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NEW JERSEY, LLC DBA LINDSAY INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">TOMPKINS INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">BODY-BORNEMAN ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NEW JERSEY, LLC DBA BIDDLE &amp; COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Brendan McPoyle</Data></Cell><Cell><Data ss:Type="String">FANELLI-HARLEY-HARPER AND ASSOCIATES, LTD.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; WILCOX, LTD. (PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CONWAY E&amp;S, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">W.N. TUSCANO AGENCY, INC. (CLARKS SUMMIT)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">USG INSURANCE SERVICES, INC. (CANONSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">W.N. TUSCANO AGENCY, INC. (GREENSBURG, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">JIMCOR AGENCY, INC. - PITTSBURGH DIVISION</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (STATE COLLEGE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (PHILIPSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">GUNN-MOWERY, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (LEWISTOWN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (BELLEVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (MT. UNION)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CENTRAL INSURERS GROUP, INC. (HUNTINGDON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">RODGERS INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">HOLMAN &amp; JAMES, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CHRISTIE INSURANCE INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC.. (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">CRAWFORD INSURANCE, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL NORTHEAST (YORK)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">ALL AMERICAN INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF PA, LLC DBA TJS INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">FIRST NATIONAL INSURANCE AGENCY, LLC (PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">LIBERTY INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">WAGNER AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">SPODEK INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">HHM INSURORS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">EVERGREEN INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">KATTAN-FERRETTI INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">THE WARREN A. GINGRICH AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">DUNCAN INSURANCE GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">TEETER GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">INTERSTATE INSURANCE MANAGEMENT</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">EXCHANGE UNDERWRITERS, INC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">RUPP &amp; FIORE INSURANCE MANAGEMENT</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (PALM SPRINGS)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">FWF INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Bridget Cullen</Data></Cell><Cell><Data ss:Type="String">IMA INC. DBA AS IMA ESS (KITTANNING)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (RICHMOND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">BLOSS &amp; DILLARD, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; WILCOX, LTD. (MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">CRC BINDING TIMONIUM</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">ROYAL OAK UNDERWRITERS, A DIVISION OF WORLDWIDE FACILITIES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">AMWINS ACCESS (COLUMBIA, MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC (SPRINGFILED, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">RELATION INSURANCE SERVICES SELECT, INC DBA LAUFER INSURANCE SOLUTIONS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">XS/GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">AP BENEFIT ADVISORS, LLC DBA EARLY, CASSIDY &amp; SCHILLING</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">WEAVER BROS INSURANCE ASSOCIATES, INC A DIVISION OF RISK STRATEGIES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (ARL RICHMOND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (ARL HUNT VALLEY)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC (GAITHERSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC (NORFOLK)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">WRIGHT-GARDNER INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND, LLC DBA SMI</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND, LLC. DBA DCAMERA GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">GANTT INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">AVON-DIXON, AN ALERA GROUP AGENCY, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">INTERSTATE INSURANCE MANAGEMENT (MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">LESTER INSURANCE, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">KELLER STONEBRAKER INSURANCE, INC. (CUMBERLAND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">THE MCCALEB-METZLER AGENCY,  A BANKERS INSURANCE COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">BLOSS &amp; DILLARD, INC. (VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC. (ANNAPOLIS)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">BROWNS INSURANCE AGENCY, INC. (VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">OMNI FINANCIAL RISK MANAGEMENT, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">CLARKE &amp; SAMPSON, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">MANRY RAWLS, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">WESTOVER - BON AIR INSURANCE, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">MAURY, DONNELLY, &amp; PARR, INC. (COCKEYSVILLE, MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">AHT INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">LINDQUIST INSURANCE GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">KELLER STONEBRAKER INSURANCE, INC. (ELLICOTT CITY)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC (HUNT VALLEY)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">WILSON OLIVER AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">BEARD &amp; BOYD INSURANCE AGENCY, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">CBIZ PRINCE-WOOD</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">MARSH &amp; MCLENNAN AGENCY (RICHMOND, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">RUSSELL INSURANCE GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">ARTHUR J. GALLAGHER RISK MANAGEMENT SERVICES, INC. (POTOMAC FALLS)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC. (JENNIFER ROAD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">RELATION INSURANCE SERVICES OF NORTH CAROLINA, INC. DBA CARR &amp; HYDE INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">COMMONWEALTH UNDERWRITERS, LTD.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HOWARD INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">LUNDIE FINANCIAL &amp; INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">James Chrismer</Data></Cell><Cell><Data ss:Type="String">HUFF INSURANCE (PASADENA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Jim Rhoads</Data></Cell><Cell><Data ss:Type="String">HOME OFFICE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Jim Rhoads</Data></Cell><Cell><Data ss:Type="String">HOME OFFICE - IT DEPARTMENT</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Jim Rhoads</Data></Cell><Cell><Data ss:Type="String">HOME OFFICE - B</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Eggers</Data></Cell><Cell><Data ss:Type="String">KENNEDY &amp; WARD INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Mulvey</Data></Cell><Cell><Data ss:Type="String">4D INSURANCE AGENCY, LLC DBA PROGRAM INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JIMCOR AGENCY, INC. (PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HULL &amp; COMPANY, INC. (WV)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">RPS TECHNOLOGY &amp; CYBER</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">COMMERCIAL INSURANCE MANAGERS, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">S.T. GOOD INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SHANNON &amp; LUCHS INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AAI - W. J. HALTEMAN INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CAPSTONE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HARBOUR LLC DBA HARBOUR INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE LLC DBA MIDDLE PENINSULA INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (VOORHEES)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NEW JERSEY, LLC DBA FRANCIS HALL INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND LLC, DBA PFISTER INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BB&amp;K OF PENNSYLVANIA LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (WEXFORD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ARTHUR J. GALLAGHER RISK MANAGEMENT SERVICES, INC. (JOHNSTOWN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ACRISURE, LLC DBA UNITED STATES INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ACRISURE, LLC DBA ODELL STUDNER GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ALLIANT INSURANCE SERVICES, INC. (CHANTILLY)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILSON TIMMONS &amp; WALLERSTEIN, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASHLEY INSURANCE, INC. (CAMBRIDGE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND DBA CNC INSURANCE ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ACRISURE, LLC DBA THE RIGG DARLINGTON GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">RESCHINI AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">COMPASS MARINE GROUP, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ACRISURE, LLC DBA PEOPLEFIRST PROPERTY &amp; CASUALTY SERVICES (EASTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DAVIS INSURANCE AGENCY, LLC (MANSFIELD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (ALLENTOWN, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">LINDQUIST INSURANCE ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INSURANCE OFFICE OF AMERICA, INC. (WILMINGTON, DE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NEW AMSTERDAM INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND, LLC. (BOWIE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF VIRGINIA, LLC. DBA VENTURE SPECIALTY INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF VIRGINIA, LLC. DBA ENGLE, PAXSON &amp; HAWTHORNE INSURANCE SERVICE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AVERY W. HALL INSURANCE AGENCY, INC. (MILTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MARSHALL &amp; STERLING, INC. DBA THE EMO AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SHOLLEY AGENCY, INC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE MCCALEB-METZLER AGENCY,  A BANKERS INSURANCE COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC. (FALLS CHURCH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JMB INC., DBA BENNINGER INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CFP&amp;M INSURANCE, A DIVISION OF KELLER STONEBRAKER INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BANKERS INSURANCE, LLC (DANVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SAVAGE &amp; MCPHERSON INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF MARYLAND, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AUGUSTA INSURANCE AGENCY, INC., A BANKERS INSURANCE COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DEJARNETTE &amp; BEALE, INC.,  A BANKERS INSURANCE COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BANKERS INSURANCE, LLC (BEDFORD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SAM WINN INSURANCE,  A BANKERS INSURANCE COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HENRY DUNN, INC. (TOWANDA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HENRY DUNN, INC. (WILLIAMSPORT)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HENRY DUNN, INC. (ROYERSFORD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HENRY DUNN, INC. (SAYRE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HUGH WOOD, INC. (PHILADELPHIA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HUGH WOOD, INC. (BELLEFONTE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KONELL INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MONTGOMERY PREMIER INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CPIG LLC DBA SWETLAND INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOTAL INSURANCE PLANNING, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE AGENCY, LLC. DBA B.H. BAIRD INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">J DOUGLAS MOLER INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DAVIS INSURANCE AGENCY, LLC (CLARKS SUMMIT)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE AGENCY, LLC. DBA LACKEY SAUNDERS AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE, LLC. DBA GLOUCESTER SOUTHSIDE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CPIG LLC DBA DAVIS INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CPIG LLC DBA FRANCIS-MCCARTY INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CPIG LLC DBA FISCHER INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DAVIS INSURANCE AGENCY, LLC (WILLIAMSPORT)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GEORGETOWN, AN ALERA GROUP COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KLINGER INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AON PRIVATE RISK MANAGEMENT INSURANCE AGENCY, INC. (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NEFF &amp; ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KLEIN AGENCY, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MITCHELL INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">EBERTS &amp; HARRISON, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INDEPENDENT INSURANCE ADVISORS RAMPART, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN METRO, LLC DBA SMITH INSURANCE ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INSURANCE OFFICE OF AMERICA, INC. (FARMINGDALE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DAVIS INSURANCE AGENCY, LLC  (LOCK HAVEN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">RICHARDSON INSURANCE GROUP, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DASH &amp; LOVE, A DIVISION OF RISK STRATEGIES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KATTAN FERRETTI INSURANCE GROUP, LLC. T/A MCDOWELL ASSOCIATES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASHLEY INSURANCE, INC. (EASTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASHLEY INSURANCE, INC. (CENTERVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASHLEY INSURANCE, INC. (DENTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIS TOWERS WATSON SOUTHEAST, INC. (HUNT VALLEY)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INTEGRATED INSURANCE SOLUTIONS, INC. (FREDERICK)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HOGANS AGENCY, INC. (CHESTER)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SAHOURI INSURANCE &amp; FINANCIAL SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CBIZ ALLIANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF VIRGINIA, LLC. (RICHMOND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">FARNELL &amp; GAST , LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BRETT INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NCG INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WADE S. DUNBAR INSURANCE AGENCY, INC. (VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE AGENCY, LLC (GAINESVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GALLINA AND SONS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ENGLE-HAMBRIGHT &amp; DAVIES, INC. (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INTEGRATED INSURANCE SOLUTIONS, INC. DBA TANGO INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BELL INSURANCE, INC. (SHIPPENSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BOYNTON &amp; BOYNTON (WAYNE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TEETER GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AVERY W. HALL INSURANCE AGENCY, INC. (DE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ENGLE-HAMBRIGHT &amp; DAVIES, INC. (EXTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF OHIO, LLC (RICHFIELD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KIMBERLEY VASSAL INSURANCE SERVICES, LTD.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">UNIVEST INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">DELAURIER INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">FIRST NATIONAL INSURANCE AGENCY, LLC (MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HERITAGE INSURANCE SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AON RISK SERVICES CENTRAL, INC. (HERSHEY, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MARSH &amp; MCLENNAN AGENCY (KING OF PRUSSIA, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HUB INTERNATIONAL MID-ATLANTIC, INC. (ROCKVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">PORTER &amp; CURTIS, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ENGLE-HAMBRIGHT &amp; DAVIES, INC. (WYOMISSING)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (BURTONSVILLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF VIRGINIA, LLC. (HAYMARKET)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WHITE JENKINS JOHNSON, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">REED, WERTZ &amp; ROADMAN, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">AON RISK SERVICES, INC. (WASHINGTON DC)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">V.W. BROWN INSURANCE SERVICES, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (OCEAN CITY, MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">LEONETTI INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">INSURANCE FIRST, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIS TOWERS WATSON NORTHEAST, INC. (RADNOR)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">LMK INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TRUSTPOINT INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">A HUB INTERNATIONAL COMPANY DBA THE HDH GROUP, INC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">IMA INC. DBA AS IMA ESS (BUTLER)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BABB, INC. (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BABB, INC. (WAYNE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BRIDGEPOINT INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HERMAN E. WEALCATCH, INC. (BALTIMORE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GILBERTS RISK SOLUTIONS</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSOCIATED INSURANCE MANAGEMENT, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ROBERT MCINTYRE INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">RPA INSURANCE SERVICES, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIS TOWERS WATSON SOUTHEAST, INC. (POTOMAC)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HARPER AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">TYROL INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GANNON ASSOCIATES (ATHENS)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">QUEST BENEFITS, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MERZ-HUBER CO.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC (BLUE BELL)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HODGE, HART &amp; SCHLEIFER, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">PCALIC DBA AWOIP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">PCALIC DBA NONPROFIT INSURANCE SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ROBERT J. STILLWELL AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIS OF PENNSYLVANIA, INC. (PITTSBURGH)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">SWBC DBA INSURANCE PARTNERS (RICHMOND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ASSUREDPARTNERS OF NORTHEASTERN PENNSYLVANIA (EASTERN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">STRICKLER INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MAURY, DONNELLY, &amp; PARR, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BOYNTON &amp; BOYNTON (FAIR HAVEN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">FEDERAL INSURANCE FEDERATION, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GALLEN INSURANCE INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">LYONS COMPANIES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (HAZELTON, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (NANTICOKE, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE HOFFBERGER INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MARSH &amp; MCLENNAN AGENCY (VIRGINIA BEACH, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MARSH &amp; MCLENNAN AGENCY (ROANOKE, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MARSH &amp; MCLENNAN AGENCY (ALEXANDRIA, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CUSHMAN INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BESKIN-DIVERS INSURANCE GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">O`DONOVAN INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">FONNER INSURANCE ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (PITTSTON, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">JOSEPH J. JOYCE ASSOCIATES, INC. (OLD FORGE, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (MERCER, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (NEW WILMINGTON, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (TIONESTA, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (WARREN, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">HBW INSURANCE GROUP, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">USI INSURANCE SERVICES, LLC. (WILMINGTON)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CONSOLIDATED INSURANCE &amp; RISK MANAGEMENT</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (CLARION, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (BRADFORD, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (CLEARFIELD, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (ERIE, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BURNS &amp; BURNS ASSOCIATES, INC. (MEADVILLE, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BELL INSURANCE, INC. (HANOVER)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BELL INSURANCE, INC. (MERCERSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BELL INSURANCE, INC. (GREENCASTLE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE SELZER COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ARTHUR J. GALLAGHER RISK MANAGEMENT SERVICES, INC. (MEDIA, PA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ALTUS CORPORATE RISK</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIAMS INSURANCE AGENCY, INC. (WILMINGTON, DE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KMRD PARTNERS, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">GEISENHEIMER AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE JACOBS COMPANY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">LUNSFORD, A TRUSTPOINT COMPANY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">BELL INSURANCE, INC. (CHAMBERSBURG)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">KLING BROTHERS INSURANCE, LLC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">THE WEIMER GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">ROBERTSON INSURANCE AND RISK MANAGEMENT</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">CBIZ INSURANCE SERVICES, INC. (CUMBERLAND, MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">MITCHELL INSURANCE SERVICES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kate Shuron</Data></Cell><Cell><Data ss:Type="String">WILLIAMS INSURANCE AGENCY, INC. (REHOBOTH BEACH, DE)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">R-T SPECIALTY, LLC (PLYMOUTH MEETING)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">PENNOCK INSURANCE, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN OF LEHIGH VALLEY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">SOPHIA EMMANUEL, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">BROSKY INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kendal Williams</Data></Cell><Cell><Data ss:Type="String">HAMPSON-MOWRER AGENCY, LLC DBA HMK INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Kristin Piersol</Data></Cell><Cell><Data ss:Type="String">LOBOSCO INSURANCE GROUP, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">HMS INSURANCE ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">DEELEY INSURANCE GROUP</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">SCHOENFELD INSURANCE ASSOCIATES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">INTEGRATED INSURANCE SOLUTIONS, INC. (ASHBURN, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">PSA INSURANCE &amp; FINANCIAL SERVICES</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">BANKERS INSURANCE, LLC (GLEN ALLEN, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">GORGES &amp; COMPANY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">THE HOGANS AGENCY, INC. (CHESTERTOWN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">WSMT INSURANCE, A DIVISION OF BB&amp;K OF MARYLAND, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">MORAN INSURANCE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">SANDY SPRING INSURANCE CORPORATION</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">INTEGRATED INSURANCE SOLUTIONS, INC. (ALEXANDRIA, VA)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN INSURANCE AGENCY OF VIRGINIA, INC. (RICHMOND)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">KELLER STONEBRAKER INSURANCE, INC. (HAGERSTOWN)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">NFP PROPERTY &amp; CASUALTY SERVICES, INC. (ROCKVILLE,MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">INSURANCE AGENCY SERVICES, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN INSURANCE AGENCY OF VIRGINIA, INC. (MANASSAS)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">AVERY W. HALL INSURANCE AGENCY, INC. (MD)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE AGENCY, LLC</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">TOWNE INSURANCE AGENCY, LLC. DBA STRAUS, ITZKOWITZ &amp; LECOMPTE</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">DIVERSIFIED INSURANCE INDUSTRIES, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">BROWN &amp; BROWN INSURANCE AGENCY OF VIRGINIA, INC. (NORFOLK)</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF VIRGINIA, LLC. DBA CSE INSURANCE AGENCY</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">THE HILB GROUP OF MARYLAND, LLC. DBA RALEY, WATTS &amp; O`NEILL</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Matt Wiseley</Data></Cell><Cell><Data ss:Type="String">SOUTH-WEST INSURANCE AGENCY, INC.</Data></Cell></Row> 
+<Row ss:AutoFitHeight="0"><Cell><Data ss:Type="String">Stephen Pinkerton</Data></Cell><Cell><Data ss:Type="String">JIMCOR AGENCY, INC. (MONTVALE, NJ)</Data></Cell></Row> 
+</Table> 
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel"> 
+<PageSetup> 
+<Header x:Margin="0.3"/> 
+<Footer x:Margin="0.3"/> 
+<PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/> 
+</PageSetup> 
+<Unsynced/> 
+<Print> 
+<ValidPrinterInfo/> 
+<HorizontalResolution>600</HorizontalResolution> 
+<VerticalResolution>600</VerticalResolution> 
+</Print> 
+<Selected/> 
+<Panes> 
+<Pane> 
+<Number>3</Number> 
+<ActiveRow>1</ActiveRow> 
+</Pane> 
+</Panes> 
+<ProtectObjects>False</ProtectObjects> 
+<ProtectScenarios>False</ProtectScenarios> 
+</WorksheetOptions> 
+</Worksheet> 
+</Workbook>

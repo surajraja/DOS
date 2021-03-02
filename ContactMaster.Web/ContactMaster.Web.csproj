@@ -87,10 +87,10 @@
     <Content Include="Departs.xml">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Reports\0dd1472e-632a-4833-aa2a-b459218ebc9f.xml">
+    <Content Include="Reports\1c5cbac8-39b6-4902-a9fe-271bc9c2e684.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Reports\54d63705-268d-4a6d-882f-791c92796785.xml">
+    <Content Include="Reports\6edbb4b7-4667-41a9-a964-a7fa4e611a74.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Services\ENDataService.svc" />
